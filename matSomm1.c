@@ -18,7 +18,8 @@ int main () {
     scanf("%d", &mat1[i][j]);
   }
 
-	      /* lettura della seconda matrice */
+	      /* lettura della seconda */
+  		/* matrice */
   printf(" lettura secnda matrice:\n");
   for (i=0; i<N; i++) {
       printf(" - riga %d: fornire %d valori interi:\n", i, M);
@@ -57,7 +58,7 @@ int main () {
   }
 
 
-printf("FINE\n");
+printf("TERMINE PROGRAMMA\n");
 
 
 return 0;
