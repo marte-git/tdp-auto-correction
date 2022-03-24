@@ -1,5 +1,4 @@
-/* problema dei guadagni dei negozi, come NEGOZI.C
-   e NEGFUN1.C
+/* problema dei guadagni dei negozi, come NEGOZI.C e NEGFUN1.C
 qui definizmo e usiamo anche le funzioni accumulazione e 
 stampaNegoziScarsi 
 
