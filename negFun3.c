@@ -5,7 +5,7 @@ la funzione di lettura di un array ... */
 #include <stdio.h>
 #define N 6
 
-/* dichiarazioni delle funzioni usate */
+/* dichiarazioni delle funzioni usate  */
 double massimo (double []);
 double minimo(double []);
 double accumulazione(double []);
