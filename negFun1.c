@@ -22,8 +22,7 @@ double massimo (double arr[N]) {
 }
 
 
-/* definizione della funzione che, ricevendo un array, arr,
-   restituisce il minimo valore contenuto in arr */
+/* definizione della funzione che, ricevendo un array, arr, restituisce il minimo valore contenuto in arr */
 double minimo (double arr[]) {
   double minparz;
   int i;
