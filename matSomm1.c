@@ -1,4 +1,4 @@
-/* somma di due matrici in una terza, con relative stampe
+/* somma di 222222 due matrici in una terza, con relative stampe
  */
 
 #include <stdio.h>
