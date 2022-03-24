@@ -10,7 +10,6 @@ Il programma deve
   (si suppone di considerare uno solo dei massimi e minimi, se ce ne sono di piu')
 - indicare le pecore nere, cioe' i negozi guadagnano meno di media2/3
  */
-
 #include <stdio.h>
 
 #define N 6
