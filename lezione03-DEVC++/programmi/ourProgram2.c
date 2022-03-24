@@ -1,0 +1,1 @@
+/* programma che esegue la somma dei valori contenuti in due variabili intere, assegnando il risultato ad una terza variabile, che poi viene stampata */#include <stdio.h>int main (){  int primoNumero = 68, secondo = 64, ris = primoNumero+secondo;            /* il risultato */  printf ("il risultato di %d piu' %d e' %d\n", primoNumero, secondo, ris);return 0;}
